@@ -30,7 +30,7 @@ trap "echo '🧹 CLEANING UP: Washing pan, putting masala back...'" EXIT
 echo "1. 🔥 Turning on gas..."
 sleep 2
 
-echo "2. 🍳 Putting water to boil..."
+echo "2. 🍳 Putting water to boil..."i
 sleep 3
 
 echo "3. 📦 Opening Maggi packet..."
@@ -61,5 +61,5 @@ sleep 2
 # STEP 3: ENJOY!
 # ============================================
 
-echo "🎉 ENJOY YOUR MAGGI! 🍜"
+echo "🎉 ENJOY YOUR MAGGIE! 🍜"
 echo "The kitchen will be cleaned up automatically!"
