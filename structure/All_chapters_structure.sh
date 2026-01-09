@@ -6,3 +6,5 @@ Linux-Journey/
 ├── Chapter-5-Scripting-Fundamentals/
 ├── Chapter-6-Advanced-Commands/
 └── Chapter-7-Real-World-Scenarios/
+    └── chapter-07-file-permission-process-management/
+        └── file_permission.sh 
