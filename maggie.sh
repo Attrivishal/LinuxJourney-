@@ -17,7 +17,7 @@ trap "echo '⚠️  PHONE RINGING! Putting Maggi on low flame...'" SIGINT
 # EMERGENCY 2: Fire alarm goes off
 # (Like when script gets terminated)
 trap "echo '🚨 FIRE ALARM! Turning off gas immediately!' && \
-      echo '🚒 Emergency shutdown! Maggi might be ruined!' && exit" SIGTERM
+    echo '🚒 Emergency shutdown! Maggi might be ruined!' && exit" SIGTERM
 
 # EMERGENCY 3: When you finish cooking (normal or interrupted)
 # ALWAYS clean up the kitchen!
