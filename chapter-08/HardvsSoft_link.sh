@@ -56,4 +56,5 @@ Examples:
 ln original_file.txt hard_link.txt  
 # Creating a soft link
 ln -s /path/to/original_file.txt soft_link.txt
-```---------------------------------------------------------------------
+
+---------------------------------------------------------------------
