@@ -8,7 +8,7 @@ Linux Filesystem
 "What's in /home vs /root and why does it matter?"
 
 "How would you list all files including hidden ones in a directory?"
-
+---------------------------------------------------------------------------------------------------------------
 Permissions & Ownership
 "A script runs as root but not as a regular user. What permissions would you check?"
 
