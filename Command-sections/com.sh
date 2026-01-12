@@ -9,7 +9,7 @@ ls -ltr	Sort by time reversed (latest last)	ls -ltr
 touch	Create empty file	touch file.txt
 mkdir	Make directory	mkdir new_folder
 rm	Remove file	rm file.txt
-rm -rf	Remove directory force	rm -rf folder/ ⚠️
+rm -rf	Remove directory force	rm -rf folder/ 
 cp	Copy file	cp src.txt dest.txt
 mv	Move/rename file	mv old.txt new.txt
 
